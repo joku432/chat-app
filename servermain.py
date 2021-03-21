@@ -1,11 +1,8 @@
-from client import client
 from server import server
 
 
-
 def main():
-    clients = []
-
+    pass
 
 if __name__ == '__main__':
     main()
